@@ -1,5 +1,5 @@
 ### Contact:
-[Email](mailto:guyrdmello@gmail.com) | [Linkedin](https://www.linkedin.com/in/guydmello/) | [Github](https://github.com/guydmello) | [Twitch](https://www.twitch.tv/geezus_almighty)
+[Email](mailto:guyrdmello@gmail.com) | [LinkedIn](https://www.linkedin.com/in/guydmello/) | [GitHub](https://github.com/guydmello) | [Twitch](https://www.twitch.tv/geezus_almighty)
 ###### For more information, please contact me via email.
 
 ### Education:
@@ -17,7 +17,7 @@
   * Prepared supplies, features, and workstations during opening and closing procedures to maximize efficiency.
   * Closely followed guidelines while assisting the head chef with all the daily preparation.
 
-### Projects
+### Projects:
 - `Hospital_System.py`
   * implementation of classes and methods for loading and storing the day-to-day operation of a pretend hospital over an arbitrary frame of time.
 - `Huffman_tree_compression.py`
@@ -30,6 +30,46 @@
   * perform test-driven development via unit-testing with pytest, specifically:
     + considering both generic and edge cases to ensure robust code.
   * ensure that your code follows the OOP design principles.
+
+### Programming Languages/Softwares:
+- Python (Datetime, Pygame, Tkinter)
+- LaTex
+- Java
+- R
+- ArcGIS
+
+### Skills:
+- Team Leadership
+- Critical Thinking
+- MS Office Suite, including:
+  * Microsoft SharePoint
+  * Microsoft Visio
+- Public Speaking
+- Customer Service
+- Build Relationships
+- Adobe Creative Suite
+
+### Personal Skills:
+- Adaptability
+- Problem-solving
+- Organized
+- Productive
+- Detail-Oriented
+- Collaborative
+
+### Awards:
+- Ontario Scholar Award
+- 4 Year Honour Roll Certificate
+- Excellence in Arts & Technology Certificate
+- Honour Roll Grade 5 & 8
+- School Spirit and Leadership Award
+- The Matthew Del Fatti Memorial Award for good conduct, sportsmanship & ability
+
+### Activities and Interests
+- Soccer
+- Table Tennis
+- Skiing
+
 ```markdown
 Syntax highlighted code block
 

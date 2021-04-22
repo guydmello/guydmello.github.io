@@ -1,6 +1,6 @@
 ### Contact:
-Phone: 647-987-4891 | [Email](mailto:guyrdmello@gmail.com) | [Address](https://www.google.com/maps/place/564+Renforth+Dr,+Etobicoke,+ON+M9C+2N5/@43.652174,-79.5824024,17z/data=!3m1!4b1!4m5!3m4!1s0x882b383660917d5f:0xa219f5b397cd492!8m2!3d43.652174!4d-79.5802137) | [Linkedin](https://www.linkedin.com/in/guydmello/) | [Github](https://github.com/guydmello) | [Twitch](https://www.twitch.tv/geezus_almighty)
-******
+[Email](mailto:guyrdmello@gmail.com) | [Linkedin](https://www.linkedin.com/in/guydmello/) | [Github](https://github.com/guydmello) | [Twitch](https://www.twitch.tv/geezus_almighty)
+###### For more information, please contact me via email.
 
 ### Education:
 - University of Toronto (UofT) - (2019-current)
@@ -19,7 +19,17 @@ Phone: 647-987-4891 | [Email](mailto:guyrdmello@gmail.com) | [Address](https://w
 
 ### Projects
 - `Hospital_System.py`
-
+  * implementation of classes and methods for loading and storing the day-to-day operation of a pretend hospital over an arbitrary frame of time.
+- `Huffman_tree_compression.py`
+  * Operated with tree data structures in a real-world context.
+  * Implemented recursive operations on trees.
+  * Applied an algorithm to generate a Huffman tree in python, taking design decisions with efficiency in mind.
+  * Implement building blocks for the algorithm to compress data with a Huffman encoding.
+  * Assessed possible improvements to a sub-optimal tree and the changes needed to generate an improved tree.
+- `Python_Air's_Frequent_Flyer_System.py`
+  * perform test-driven development via unit-testing with pytest, specifically:
+    + considering both generic and edge cases to ensure robust code.
+  * ensure that your code follows the OOP design principles.
 ```markdown
 Syntax highlighted code block
 

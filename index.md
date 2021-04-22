@@ -1,15 +1,21 @@
 ### Contact:
-[Phone](647-987-4891) | [Email](Guyrdmello@gmail.com) | [Address](https://www.google.com/maps/place/564+Renforth+Dr,+Etobicoke,+ON+M9C+2N5/@43.652174,-79.5824024,17z/data=!3m1!4b1!4m5!3m4!1s0x882b383660917d5f:0xa219f5b397cd492!8m2!3d43.652174!4d-79.5802137) | [Linkedin](https://www.linkedin.com/in/guydmello/) | [Github](https://github.com/guydmello)
-
-
-You can use the [editor on GitHub](https://github.com/guydmello/guydmello.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Phone: 647-987-4891 | [Email](mailto:guyrdmello@gmail.com) | [Address](https://www.google.com/maps/place/564+Renforth+Dr,+Etobicoke,+ON+M9C+2N5/@43.652174,-79.5824024,17z/data=!3m1!4b1!4m5!3m4!1s0x882b383660917d5f:0xa219f5b397cd492!8m2!3d43.652174!4d-79.5802137) | [Linkedin](https://www.linkedin.com/in/guydmello/) | [Github](https://github.com/guydmello) | [Twitch](https://www.twitch.tv/geezus_almighty)
+******
+### Education:
+- University of Toronto (UofT) - (2019-current)
+  * Honours Bachelor of Science
+  * Relevant Courses: Computer Science, Theory of Computation, Spatial Data Science, Geographical Information Systems, Linear Algebra, Calculus
+- Michael Power/St. Joseph High School - (2014 - 2019)
+  * Ontario Secondary School Diploma
+******
+### Work Experience:
+- Thor and Partners, Summer Student Job – (June - September 2019)
+  * Reviewed project details to specify correct materials and equipment for job sites.
+  * Maximized resource utilization and achieved targets.
+- Revera Inc., Student Job – (September 2016 - September 2018)
+  * Prepared supplies, features, and workstations during opening and closing procedures to maximize efficiency.
+  * Closely followed guidelines while assisting the head chef with all the daily preparation.
+******
 ```markdown
 Syntax highlighted code block
 

@@ -8,7 +8,6 @@ Phone: 647-987-4891 | [Email](mailto:guyrdmello@gmail.com) | [Address](https://w
   * Relevant Courses: Computer Science, Theory of Computation, Spatial Data Science, Geographical Information Systems, Linear Algebra, Calculus
 - Michael Power/St. Joseph High School - (2014 - 2019)
   * Ontario Secondary School Diploma
-******
 
 ### Work Experience:
 - Thor and Partners, Summer Student Job – (June - September 2019)
@@ -17,7 +16,10 @@ Phone: 647-987-4891 | [Email](mailto:guyrdmello@gmail.com) | [Address](https://w
 - Revera Inc., Student Job – (September 2016 - September 2018)
   * Prepared supplies, features, and workstations during opening and closing procedures to maximize efficiency.
   * Closely followed guidelines while assisting the head chef with all the daily preparation.
-******
+
+### Projects
+- `Hospital_System.py`
+
 ```markdown
 Syntax highlighted code block
 

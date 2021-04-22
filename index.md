@@ -66,6 +66,6 @@
 - The Matthew Del Fatti Memorial Award for good conduct, sportsmanship & ability
 
 ### Activities and Interests
-- Soccer
-- Table Tennis
-- Skiing
+- ⚽ Soccer
+- 🏓 Table Tennis
+- 🎿 Skiing

@@ -1,6 +1,7 @@
 ### Contact:
 Phone: 647-987-4891 | [Email](mailto:guyrdmello@gmail.com) | [Address](https://www.google.com/maps/place/564+Renforth+Dr,+Etobicoke,+ON+M9C+2N5/@43.652174,-79.5824024,17z/data=!3m1!4b1!4m5!3m4!1s0x882b383660917d5f:0xa219f5b397cd492!8m2!3d43.652174!4d-79.5802137) | [Linkedin](https://www.linkedin.com/in/guydmello/) | [Github](https://github.com/guydmello) | [Twitch](https://www.twitch.tv/geezus_almighty)
 ******
+
 ### Education:
 - University of Toronto (UofT) - (2019-current)
   * Honours Bachelor of Science
@@ -8,6 +9,7 @@ Phone: 647-987-4891 | [Email](mailto:guyrdmello@gmail.com) | [Address](https://w
 - Michael Power/St. Joseph High School - (2014 - 2019)
   * Ontario Secondary School Diploma
 ******
+
 ### Work Experience:
 - Thor and Partners, Summer Student Job – (June - September 2019)
   * Reviewed project details to specify correct materials and equipment for job sites.

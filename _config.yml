@@ -4,3 +4,13 @@ theme: jekyll-theme-modernist
 title: Guy DMello
 twitter_username: guy_the_mello
 name: Guy DMello
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://automateddeveloper.blogspot.com/
+ - title: GitHub
+   url: https://github.com/robhinds
+ - title: DZone
+   url: https://dzone.com/users/899489/rhinds.html

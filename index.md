@@ -11,6 +11,11 @@
   * Ontario Secondary School Diploma
 
 ### Work Experience:
+- RBC, Business Analyst - (May - August 2021)
+  * Collaborate on initiatives, documenting requirements, and supporting projects.
+  * Analyze data and make recommendations to various leaders.
+  * Identify opportunities to streamline processes
+  * Collaborate with stakeholders & senior management, across multiple lines of business
 - Thor and Partners, Summer Student Job – (June - September 2019)
   * Reviewed project details to specify correct materials and equipment for job sites.
   * Maximized resource utilization and achieved targets.
